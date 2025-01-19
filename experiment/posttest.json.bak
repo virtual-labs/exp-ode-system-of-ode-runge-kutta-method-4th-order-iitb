@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ x_1 = 0,\\ \\ y_1 = 0,\\ \\ z_1 = 0  $$ $$ \\frac{dy}{dx} = f(x,y,z) = x+z $$ $$ \\frac{dz}{dx} = g(x,y,z) = (1.5z - 4.5y +4.5) $$ $$ Find\\ y(0.5) $$ $$ Given,\\ \\ n = 2 $$",
+      "qid": 1,
+      "option_a": "0.778",
+      "option_b": "1.342",
+      "option_c": "1.897",
+      "option_d": "0.124",
+      "correct_option": "a"
+   },
+   {
+      "question": "$$ x_1 = 0,\\ \\ y_1 = 1,\\ \\ z_1 = 1 $$ $$ \\frac{dy}{dx} = f(x,y,z) = yz $$ $$ \\frac{dz}{dx} = g(x,y,z) = xy $$ $$ Find\\ y(0.2) $$ $$ Given,\\ \\ n = 2 $$",
+      "qid": 2,
+      "option_a": "1.99",
+      "option_b": "1.22",
+      "option_c": "2.21",
+      "option_d": "2.89",
+      "correct_option": "b"
+   }
+]
