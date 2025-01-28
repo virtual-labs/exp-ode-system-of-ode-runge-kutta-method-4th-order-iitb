@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Runge Kutta method 4nd order is used to solve _______________________",
+        "qid": 1,
+        "option_a": "boundry value disfferential equation",
+        "option_b": "initial value disfferential equation",
+        "option_c": "",
+        "option_d": "",
+        "correct_option": "b"
+    },
+    {
+        "question": "In Runge Kutta method 4nd order",
+        "qid": 2,
+        "option_a": "sum of the slopes are used",
+        "option_b": "sum of the squares of the slopes are used",
+        "option_c": "average slope is used",
+        "option_d": "weighted average is used",
+        "correct_option": "d"
+    }
+]
